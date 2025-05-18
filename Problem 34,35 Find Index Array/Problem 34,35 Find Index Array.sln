@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 34 Find Index Array", "Problem 34 Find Index Array\Problem 34 Find Index Array.vcxproj", "{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}.Debug|x64.ActiveCfg = Debug|x64
+		{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}.Debug|x64.Build.0 = Debug|x64
+		{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}.Debug|x86.Build.0 = Debug|Win32
+		{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}.Release|x64.ActiveCfg = Release|x64
+		{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}.Release|x64.Build.0 = Release|x64
+		{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}.Release|x86.ActiveCfg = Release|Win32
+		{876DCA56-ACF5-43D4-B08E-5CEAC1756AB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A85FE98-244C-429F-AB2D-7CB556597813}
+	EndGlobalSection
+EndGlobal
